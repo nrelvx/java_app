@@ -54,6 +54,8 @@ A simple Android application for managing daily tasks. Built with **Java** and *
 
 <img width="438" height="806" alt="Снимок экрана 2026-03-13 175258" src="https://github.com/user-attachments/assets/56c663b1-2739-4571-8ebf-6b7f5136902b" />
 
+---
+
 <img width="451" height="193" alt="Снимок экрана 2026-03-13 175234" src="https://github.com/user-attachments/assets/3645f8e1-1f81-4b96-807e-fcba2b28ab4e" />
 
 
