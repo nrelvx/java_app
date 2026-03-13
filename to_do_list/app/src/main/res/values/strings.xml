@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="logo_text">To-Do List</string>
+    <string name="enter_task">Enter new task</string>
+    <string name="date">13.03.2026</string>
+    <string name="add_button">ADD</string>
+</resources>
